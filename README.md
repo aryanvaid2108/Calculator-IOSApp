@@ -1,3 +1,3 @@
 # Calculator-IOSApp
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/aryanvaid2108/Calculator-IOSApp/blob/master/Calculator.png)
