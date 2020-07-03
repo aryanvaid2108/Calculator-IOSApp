@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  CalculatorSwiftUILBTA
-//
-//  Created by Brian Voong on 1/2/20.
-//  Copyright © 2020 Lets Build That App. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
